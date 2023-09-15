@@ -1,0 +1,25 @@
+.table-wrapper {
+    display: flex;
+    width: 100%;
+    overflow-x: auto;
+}
+.table-style {
+    border-collapse: collapse; 
+    width: 100vw
+}
+.tab-A {
+    border: 1px solid; 
+    background-color: orchid; 
+    border-color: black; 
+    height: 120pt; 
+    margin-right: 0; 
+    padding-right: 0;
+}
+.tab-B {
+    border: 1px solid;
+     background-color: blueviolet; 
+     border-color: black; 
+     height: 120pt; 
+     margin-left: 0; 
+     padding-left: 0;
+}

@@ -1,0 +1,43 @@
+.parallax-container {
+    background-image: url(https://i.pinimg.com/originals/c5/20/84/c5208401b6dcc55ead121c311f23c2f2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.message {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.parallax-container2 {
+    background-color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.message-2 {
+    font-size: 30px;
+    font-style: italic;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.parallax-container3 {
+    background-image: url(https://images.wallpaperscraft.com/image/single/clouds_sky_porous_138133_1920x1080.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

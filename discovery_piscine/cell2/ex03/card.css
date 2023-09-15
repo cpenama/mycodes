@@ -1,0 +1,14 @@
+.img {
+    height: 25px;
+    width: 25px;
+}
+.center-text {
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    display: flex;
+}
+.table-box {
+    align-items: center;
+}
