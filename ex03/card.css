@@ -1,0 +1,42 @@
+.img {
+    height: 280px;
+    width: 280px;
+}
+.center-text {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    text-align: center;
+}
+.table-box {
+    align-items: center;
+}
+.center-text2 {
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 400;
+    text-align: center;
+}
+.img-2 {
+    height: 25px;
+    width: 25px;
+}
+.button {
+   background-color: midnightblue;
+   border: none;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   font-size: 15px;
+   width: 280px;
+   cursor: pointer;
+   display: inline-block;
+}
+.center-text3 {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 600;
+    padding-bottom: 15%;
+}
